@@ -1,0 +1,26 @@
+{
+  "name": "etsy_store",
+  "version": "1.0.0",
+  "description": "Etsy For Pet Wear",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeesterMeetch/etsy_store.git"
+  },
+  "keywords": [
+    "Etsy",
+    "Petsy",
+    "Pets",
+    "formal",
+    "wear"
+  ],
+  "author": "Mitch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeesterMeetch/etsy_store/issues"
+  },
+  "homepage": "https://github.com/MeesterMeetch/etsy_store#readme"
+}
