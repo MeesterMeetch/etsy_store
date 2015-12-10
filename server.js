@@ -18,3 +18,5 @@ app.get('/maybe', function(req, res) {
 });
 
 http.listen(port);
+
+console.log('WE ARE RUNNING ON PORT:' + port);
