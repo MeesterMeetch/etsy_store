@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/MeesterMeetch/etsy_store/issues"
   },
-  "homepage": "https://github.com/MeesterMeetch/etsy_store#readme",
+  "homepage": "https://github.com/MeesterMeetch/etsy_store/index.html",
   "dependencies": {
     "bower": "^1.7.0"
   }
