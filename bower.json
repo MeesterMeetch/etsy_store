@@ -1,0 +1,33 @@
+{
+  "name": "etsy_store",
+  "description": "Etsy For Pet Wear",
+  "main": "index.js",
+  "authors": [
+    "Mitch"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Etsy",
+    "Petsy",
+    "Pets",
+    "formal",
+    "wear"
+  ],
+  "homepage": "https://github.com/MeesterMeetch/etsy_store",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "jquery": "~2.1.4",
+    "underscore": "~1.8.3",
+    "font-awesome": "~4.5.0"
+  }
+}
